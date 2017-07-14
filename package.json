@@ -1,0 +1,30 @@
+{
+  "name": "meanblog",
+  "version": "1.0.0",
+  "description": "blog angular js node ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rekha1984/meanblog.git"
+  },
+  "keywords": [
+    "mean",
+    "stack",
+    "angular",
+    "2",
+    "application"
+  ],
+  "author": "dhruvsingh chaudhary",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rekha1984/meanblog/issues"
+  },
+  "homepage": "https://github.com/rekha1984/meanblog#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "mongoose": "^4.11.1"
+  }
+}
